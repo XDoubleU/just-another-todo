@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+  padding-top: 10em;
+  
+}
+
+body{
+  background-color: #181a1b;
+  color: white;
+}
+
+ul{
+  list-style-type: none;
+  background-color: rgb(91, 175, 175);
+  padding: 1em;
+  margin: auto;
+  width: 50%;
+  border-radius: 5px;
+}
+
+li{
+  cursor: pointer;
+}
+
+li:not(:first-child){
+  padding-top: 1em;
+}
+
+li:not(:last-child){
+  border-bottom: 1px solid #181a1b;
+  padding-bottom: 1em;
+}
+
+input{
+  width: 80%;
+  margin-right: 1em;
+  border: none;
+  outline: none;
+  color: white;
+  border-bottom: 1px solid white;
+  background-color: inherit;
+}
+
+button{
+  cursor: pointer;
+  background-color: white;
+  border: none;
+  border-radius: 5px;
+  height: 40px;
+  width: 65px;
+  font-size: 2em;
+}
