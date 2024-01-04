@@ -1,7 +1,8 @@
 repo_name: XDoubleU/just-another-todo
 report_id: e4b48b46f2efa04ca220565f319dc352
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T17:20:19+00:00'
+timestamp: '2024-01-04T15:08:30+00:00'
 requested_by: XDoubleU
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/XDoubleU/just-another-todo
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/XDoubleU/just-another-todo/blob/main/package.json
   detection_source: package.json
   last_updated_by: Xander Warszawski
   last_updated_on: 2022-02-07 17:42:13.000000000 Z
@@ -37,6 +40,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/XDoubleU/just-another-todo
   detection_source: Repo Metadata
 - name: Node.js
   description: A platform built on Chrome's JavaScript runtime for easily building
@@ -47,6 +51,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/XDoubleU/just-another-todo/blob/main/package.json
   detection_source: package.json
   last_updated_by: Xander Warszawski
   last_updated_on: 2022-02-07 17:42:13.000000000 Z
@@ -60,7 +65,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/XDoubleU/just-another-todo/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Xander Warszawski
   last_updated_on: 2022-02-07 17:42:13.000000000 Z
@@ -72,6 +77,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/XDoubleU/just-another-todo
   detection_source: Repo Metadata
 - name: Jest
   description: Painless JavaScript Unit Testing
@@ -83,7 +89,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/830/jest.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/XDoubleU/just-another-todo/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Xander Warszawski
   last_updated_on: 2022-02-07 17:42:13.000000000 Z
@@ -95,6 +101,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/XDoubleU/just-another-todo/blob/main/package.json
   detection_source: package.json
   last_updated_by: Xander Warszawski
   last_updated_on: 2022-02-07 17:42:13.000000000 Z
@@ -108,7 +115,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/XDoubleU/just-another-todo/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Xander Warszawski
   last_updated_on: 2022-02-07 17:42:13.000000000 Z
@@ -123,7 +130,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/XDoubleU/just-another-todo/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Xander Warszawski
   last_updated_on: 2022-02-07 17:42:13.000000000 Z
@@ -137,7 +144,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/XDoubleU/just-another-todo/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Xander Warszawski
   last_updated_on: 2022-02-07 17:42:13.000000000 Z
@@ -151,7 +158,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/XDoubleU/just-another-todo/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Xander Warszawski
   last_updated_on: 2022-02-07 17:42:13.000000000 Z
@@ -165,7 +172,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/XDoubleU/just-another-todo/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Xander Warszawski
   last_updated_on: 2022-02-07 17:42:13.000000000 Z
@@ -179,7 +186,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/XDoubleU/just-another-todo/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Xander Warszawski
   last_updated_on: 2022-02-07 17:42:13.000000000 Z
@@ -193,7 +200,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/XDoubleU/just-another-todo/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Xander Warszawski
   last_updated_on: 2022-02-07 17:42:13.000000000 Z
@@ -207,7 +214,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/XDoubleU/just-another-todo/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Xander Warszawski
   last_updated_on: 2022-02-07 17:42:13.000000000 Z
