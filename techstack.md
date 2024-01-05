@@ -32,7 +32,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [XDoubleU/just-another-todo](https://github.com/XDoubleU/just-another-todo)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|16<br/>Tools used|01/04/24 <br/>Report generated|
+|16<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
